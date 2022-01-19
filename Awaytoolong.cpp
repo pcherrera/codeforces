@@ -1,4 +1,4 @@
-//A way too long words
+//71.A A way too long words
 #include <bits/stdc++.h>
 using namespace std;
 
